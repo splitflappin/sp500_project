@@ -1,2 +1,7 @@
+# Virtual environment
 venv/
-dev/
+
+# DuckDB database files
+*.db
+*.duckdb
+*.ddb
